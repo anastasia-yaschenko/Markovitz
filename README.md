@@ -1,2 +1,2 @@
 # Markovitz
-Using Markowitz theory to find optimal portfolio of American stocks
+Using Markowitz portfolio theory to find optimal portfolio of American stocks
